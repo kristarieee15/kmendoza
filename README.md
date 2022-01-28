@@ -8,7 +8,7 @@ She/Her
 Im a big fan of Taylor Swift and I love all her songs! (Swiftie)
 #### 📫 How to reach me: kristara.mendoza@wvsu.edu.ph
 <!--
-**kmendoza/kmendoza** is a special repository because its `README.md` (this file) appears on your GitHub profile.
+**kristarieee15/kmendoza** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
